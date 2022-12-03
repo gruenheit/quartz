@@ -6,7 +6,7 @@ enableToc: false
 ## Willkommen zu meiner neuen Seite
 Hier will ich zukünftig meine kleine Geschichten erzählen
 
-" [[notes/Wie alles begann]] "
+" [Wie alles begann](notes/Wie%20alles%20begann.md) "
 
 
 
