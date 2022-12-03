@@ -1,0 +1,12 @@
+{
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true,
+  "trashOption": "none",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "",
+  "promptDelete": false,
+  "showFrontmatter": true,
+  "useMarkdownLinks": true
+}

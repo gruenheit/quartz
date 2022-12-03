@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "f6c6d7c59ee68d75",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3e4cccf47450dac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0357661ec53d636f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1353bfe34f438dc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Wie alles begann.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3d59190b13f07b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e969d8a0eeb0c00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25ce6d59151acafe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9317f6a10597c1de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a8d5f161965bad9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4db6c0e4144ecea0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4bbe19d2bd76334",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c76de265ecdb964a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/Wie alles begann.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50b98ca0c2427ebc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/Wie alles begann.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14c106b526c06405",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "450c36310b6587f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/Wie alles begann.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1353bfe34f438dc2",
+  "lastOpenFiles": [
+    "_index.md",
+    "notes/Wie alles begann.md",
+    "templates/post.md",
+    "private/private-note.md",
+    "notes/images/github-actions.png",
+    "notes/callouts.md",
+    "notes/CJK + Latex Support (测试).md",
+    "notes/config.md",
+    "notes/setup.md",
+    "notes/showcase.md"
+  ]
+}
